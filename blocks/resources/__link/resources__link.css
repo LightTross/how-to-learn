@@ -5,3 +5,7 @@
   justify-content: center;
 }
 
+.resources__link:hover {
+  opacity: 0.5;
+  transition: 0.4s linear 0.1s;
+}
